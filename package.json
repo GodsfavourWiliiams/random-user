@@ -1,0 +1,38 @@
+{
+  "name": "react-table-with-redux",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "autoprefixer": "10.4.14",
+    "csbbust": "1.0.1",
+    "loader-utils": "3.2.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "8.0.5",
+    "react-router-dom": "6.10.0",
+    "react-scripts": "5.0.1",
+    "react-table": "7.8.0",
+    "redux": "4.2.1",
+    "redux-logger": "3.0.6",
+    "redux-thunk": "2.4.2",
+    "tailwindcss": "3.2.7"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
